@@ -1,5 +1,5 @@
 {
-  "name": "study",
+  "name": "cheat-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Rayyangyang/node-study/issues"
   },
-  "homepage": "https://github.com/Rayyangyang/node-study#readme"
+  "homepage": "https://github.com/Rayyangyang/node-study#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
