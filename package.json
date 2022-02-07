@@ -17,11 +17,7 @@
   },
   "homepage": "https://github.com/Rayyangyang/node-study#readme",
   "dependencies": {
-    "@vonage/server-sdk": "^2.10.10",
-    "body-parser": "^1.19.1",
-    "ejs": "^3.1.6",
-    "express": "^4.17.2",
-    "socket.io": "^4.4.1"
+ 
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
